@@ -1,3 +1,5 @@
+% This program creates piano roll for a Carnatic song
+% Tulasi Bharathi, NIAS, 2022
 clear all;
 close all;
 midi=readmidi('varasivabalam.mid');

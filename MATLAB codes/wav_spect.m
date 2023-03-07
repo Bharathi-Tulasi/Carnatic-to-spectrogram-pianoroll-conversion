@@ -1,3 +1,6 @@
+% This programs creates spectrogram for a Carnatic song
+% Tulasi Bharathi, NIAS, 2022
+
 clear;clc;close all;
 
 %[song1,fs] = audioread(filename);
